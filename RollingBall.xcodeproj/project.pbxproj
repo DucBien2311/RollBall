@@ -12,7 +12,6 @@
 		7B85EB4B1DF911DE009BF167 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B85EB491DF911DE009BF167 /* Main.storyboard */; };
 		7B85EB4D1DF911DE009BF167 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7B85EB4C1DF911DE009BF167 /* Assets.xcassets */; };
 		7B85EB501DF911DE009BF167 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7B85EB4E1DF911DE009BF167 /* LaunchScreen.storyboard */; };
-		7B85EB591DF912A9009BF167 /* ball.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B85EB581DF912A9009BF167 /* ball.png */; };
 		7B873E8C1DFBAFC80044FE1B /* Brazil-2014.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 7B873E8B1DFBAFC80044FE1B /* Brazil-2014.mp3 */; };
 /* End PBXBuildFile section */
 
@@ -24,7 +23,6 @@
 		7B85EB4C1DF911DE009BF167 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7B85EB4F1DF911DE009BF167 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7B85EB511DF911DE009BF167 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		7B85EB581DF912A9009BF167 /* ball.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = ball.png; sourceTree = "<group>"; };
 		7B873E8B1DFBAFC80044FE1B /* Brazil-2014.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Brazil-2014.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,7 +71,6 @@
 			isa = PBXGroup;
 			children = (
 				7B873E8B1DFBAFC80044FE1B /* Brazil-2014.mp3 */,
-				7B85EB581DF912A9009BF167 /* ball.png */,
 			);
 			name = source;
 			sourceTree = "<group>";
@@ -138,7 +135,6 @@
 			files = (
 				7B85EB501DF911DE009BF167 /* LaunchScreen.storyboard in Resources */,
 				7B85EB4D1DF911DE009BF167 /* Assets.xcassets in Resources */,
-				7B85EB591DF912A9009BF167 /* ball.png in Resources */,
 				7B873E8C1DFBAFC80044FE1B /* Brazil-2014.mp3 in Resources */,
 				7B85EB4B1DF911DE009BF167 /* Main.storyboard in Resources */,
 			);
